@@ -22,7 +22,7 @@ This satellite remote sensing workshop is hosted by the *44th Annual Conference 
 
 * Requirements: 
   * Laptop (some desktops available)
-  * All of the subscriptions / accounts from the Introduction Remote Sensing
-  * QGIS 3.4 (https://download.qgis.org/)
-  * Google Earth (https://www.google.com/earth/versions/#download-pro)
-  * R Studio (https://www.rstudio.com/products/rstudio/download/#download)
+  * All of the subscriptions / accounts from the Introduction to Satellite Remote Sensing (above)
+  * Install QGIS 3.4 (https://download.qgis.org/)
+  * Install Google Earth (https://www.google.com/earth/versions/#download-pro)
+  * Install R Studio (https://www.rstudio.com/products/rstudio/download/#download)

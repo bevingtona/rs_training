@@ -1,6 +1,8 @@
 # Introduction to Satellite Remote Sensing 
 
-## Wednesday May 22, 2019 (0900 1015 AM)
+## Wednesday May 22, 2019 
+
+### First Part: 0900 1015 AM
 
 1. **Presentation:**
    1. Introductions
@@ -24,7 +26,7 @@
    1. Explore thermal anomalies 
    1. Explore SWIR band combinations
 
-## Wednesday May 22, 2019 (1045 1200 AM)
+### Second Part: 1045 1200 AM
 
 1. **Presentation:**
    1. A review of free optical satellite remote sensing https://www.researchgate.net/publication/326190414_A_Review_of_Free_Optical_Satellite_Imagery_for_Watershed-Scale_Landscape_Analysis 
