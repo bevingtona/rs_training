@@ -1,4 +1,4 @@
-# Remote Sensing Workshop 
+# Satellite Remote Sensing Workshop 
 
 This remote sensing workshop is for the 44th Annual Conference of the Canadian Cartographic Association (https://cca-acc.org/conferences/current-conference/) in Prince George, BC. 
 
