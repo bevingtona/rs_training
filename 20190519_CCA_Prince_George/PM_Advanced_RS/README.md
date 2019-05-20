@@ -6,6 +6,8 @@
 1. **Presentation:**
    1. Introductions
    1. Advanced Satellite Remote Sensing
+   1. A review of free optical satellite remote sensing https://www.researchgate.net/publication/326190414_A_Review_of_Free_Optical_Satellite_Imagery_for_Watershed-Scale_Landscape_Analysis 
+
 1. **GitHub:** https://github.com/bevingtona/rs_training
    1. Clone or download repository
    1. Optional: https://gitforwindows.org
@@ -24,8 +26,6 @@
 
 ## Part 2: 1445 1600 PM
 
-1. **Best new papers:**
-   1. 
 1. **LandTrendR:** https://emapr.github.io/LT-GEE/
    1. **UI LandTrendr Pixel Time Series Plotter:** source and LandTrendr-fitted data for a pixel https://emaprlab.users.earthengine.app/view/lt-gee-pixel-time-series
    1. **UI LandTrendr Change Mapper:** map disturbances and view attributes https://emaprlab.users.earthengine.app/view/lt-gee-change-mapper
