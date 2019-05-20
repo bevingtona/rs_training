@@ -2,7 +2,7 @@
 
 ## Wednesday May 22, 2019 
 
-### First Part: 0900 1015 AM
+### Part 1: 0900 1015 AM
 
 1. **Presentation:**
    1. Introductions
@@ -18,6 +18,8 @@
    1. Explore Sentinel-2 L1C
    1. Explore Landsat 8 USGS
    1. Explore Sentinel-1 
+1. **Band combination tool** https://emaprlab.users.earthengine.app/view/landsat-8-rgb-band-combos
+   1. Observe differences in band combinations
 1. **Planet Explorer:** https://www.planet.com/explorer/
    1. Explore PlanetScope 4-band 
    1. Explore RapidEye 
@@ -26,7 +28,7 @@
    1. Explore thermal anomalies 
    1. Explore SWIR band combinations
 
-### Second Part: 1045 1200 AM
+### Part 2: 1045 1200 AM
 
 1. **Presentation:**
    1. A review of free optical satellite remote sensing https://www.researchgate.net/publication/326190414_A_Review_of_Free_Optical_Satellite_Imagery_for_Watershed-Scale_Landscape_Analysis 
