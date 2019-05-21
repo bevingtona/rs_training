@@ -44,7 +44,6 @@
    1. Planet API https://developers.planet.com/docs/api/  
    1. planetR https://github.com/bevingtona/planetR
 1. **Planet Image Classification**
-   1. Calculate NDVI per image in R
-   1. Plot NDVI change over time in R
-   1. Export Gif animation
-   1. Plot NDVI change over time
+   1. Download imagery
+   1. Plot time series 
+   1. Calcualte NDVI

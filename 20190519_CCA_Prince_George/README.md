@@ -1,7 +1,7 @@
 # **Satellite Remote Sensing Workshop** 
 ## *Wednesday May 22, 2019*
 
-This satellite remote sensing workshop is hosted by the *44th Annual Conference of the Canadian Cartographic Association* (https://cca-acc.org/conferences/current-conference/) in Prince George, BC. 
+This satellite remote sensing workshop is hosted by the *44th Annual Conference of the Canadian Cartographic Association*, the *Canadian  Institute of Geomatics* and the *Northern BC GIS Users Group* (https://cca-acc.org/conferences/current-conference/) in Prince George, BC. 
 
 ## **Introduction to Satellite Remote Sensing**  (0900-1200) 
 

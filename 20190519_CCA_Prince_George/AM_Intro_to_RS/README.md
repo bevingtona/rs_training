@@ -18,8 +18,9 @@
    1. Explore Sentinel-2 L1C
    1. Explore Landsat 8 USGS
    1. Explore Sentinel-1 
-1. **Band combination tool** https://emaprlab.users.earthengine.app/view/landsat-8-rgb-band-combos
-   1. Observe differences in band combinations
+1. **Band combination tool** 
+   1. Observe differences in band combinations https://emaprlab.users.earthengine.app/view/landsat-8-rgb-band-combos
+   1. Spectral Indices http://bleutner.github.io/RStoolbox/rstbx-docu/spectralIndices.html
 1. **Planet Explorer:** https://www.planet.com/explorer/
    1. Explore PlanetScope 4-band 
    1. Explore RapidEye 
@@ -52,5 +53,6 @@
 1. **Planet stories:** https://www.planet.com/explorer/
    1. Compare tool
    1. Stories tool
+   1. Download
 1. **Google Earth Studio:** https://earth.google.com/studio/
    1. Video export
