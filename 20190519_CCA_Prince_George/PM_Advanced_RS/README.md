@@ -7,7 +7,6 @@
    1. Introductions
    1. Advanced Satellite Remote Sensing
    1. A review of free optical satellite remote sensing https://www.researchgate.net/publication/326190414_A_Review_of_Free_Optical_Satellite_Imagery_for_Watershed-Scale_Landscape_Analysis 
-
 1. **GitHub:** https://github.com/bevingtona/rs_training
    1. Clone or download repository
    1. Optional: https://gitforwindows.org
@@ -27,20 +26,23 @@
 ## Part 2: 1445 1600 PM
 
 1. **LandTrendR:** https://emapr.github.io/LT-GEE/
-   1. **UI LandTrendr Pixel Time Series Plotter:** source and LandTrendr-fitted data for a pixel https://emaprlab.users.earthengine.app/view/lt-gee-pixel-time-series
-   1. **UI LandTrendr Change Mapper:** map disturbances and view attributes https://emaprlab.users.earthengine.app/view/lt-gee-change-mapper
-   1. **UI LandTrendr Fitted Index Delta RGB Mapper:** visualize change and relative band/index information https://emaprlab.users.earthengine.app/view/lt-gee-fitted-index-delta-rgb-mapper
-   1. **UI LandTrendr Time Series Animator:** make an animated GIF from a LandTrendr FTV annual time series https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator
+   1. **UI LandTrendr Pixel Time Series Plotter:** source and LandTrendr-fitted data for a pixel
+      1. https://emaprlab.users.earthengine.app/view/lt-gee-pixel-time-series
+   1. **UI LandTrendr Change Mapper:** map disturbances and view attributes
+      1. https://emaprlab.users.earthengine.app/view/lt-gee-change-mapper
+   1. **UI LandTrendr Fitted Index Delta RGB Mapper:** visualize change and relative band/index information
+      1. https://emaprlab.users.earthengine.app/view/lt-gee-fitted-index-delta-rgb-mapper
+   1. **UI LandTrendr Time Series Animator:** make an animated GIF from a LandTrendr FTV annual time series
+      1. https://emaprlab.users.earthengine.app/view/lt-gee-time-series-animator
    1. **Gif Labels:**
-   1. Add Labels to GIF https://gist.github.com/jdbcode/2af647876e03c76de5424e15b30b74ec
+      1. Add Labels to GIF https://gist.github.com/jdbcode/2af647876e03c76de5424e15b30b74ec
 1. **Add LandTrendR in GEE** 
-   1. Add Mosaic
-   1. Classify image
+   1. Greatest disturbance 
+      1. https://code.earthengine.google.com/3bf818e88952e4f84c4fac90c3ea3672
 1. **Planet Explorer and PlanetR**
    1. Planet Explorer https://planet.com/explorer/
    1. Planet API https://developers.planet.com/docs/api/  
    1. planetR https://github.com/bevingtona/planetR
-   1. Bulk download https://github.com/bevingtona/planetR/blob/master/example/planet_example.R
 1. **Planet Image Classification**
    1. Calculate NDVI per image in R
    1. Plot NDVI change over time in R
