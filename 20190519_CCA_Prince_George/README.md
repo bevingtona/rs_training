@@ -27,4 +27,6 @@ Conference link: https://cca-acc.org/conferences/current-conference/
   * All of the subscriptions / accounts from the Introduction to Satellite Remote Sensing (above)
   * Install QGIS 3.4 (https://download.qgis.org/)
   * Install Google Earth (https://www.google.com/earth/versions/#download-pro)
+  * Install R (https://cran.r-project.org/)
   * Install R Studio (https://www.rstudio.com/products/rstudio/download/#download)
+  * BONUS (not required): Install SNAP (https://step.esa.int/main/download/snap-download/)
